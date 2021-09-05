@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.tabs.TabLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:tabMode="fixed">
+
+    <com.google.android.material.tabs.TabItem
+        android:id="@+id/tabLatest"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/latest"/>
+
+    <com.google.android.material.tabs.TabItem
+        android:id="@+id/tabTop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/top"/>
+
+    <com.google.android.material.tabs.TabItem
+        android:id="@+id/tabHot"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hot"/>
+
+
+
+</com.google.android.material.tabs.TabLayout>

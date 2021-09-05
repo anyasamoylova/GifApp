@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="smallMargin">10dp</dimen>
+    <dimen name="largeMargin">30dp</dimen>
+    <dimen name="textSize">16sp</dimen>
+</resources>

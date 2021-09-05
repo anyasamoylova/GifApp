@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GifApp</string>
+    <string name="description">Gif image</string>
+    <string name="example_description">Example Description</string>
+    <string name="btn_frwd">Forward button</string>
+    <string name="btn_bck">Back button</string>
+    <string name="latest">Последние</string>
+    <string name="top">Лучшие</string>
+    <string name="hot">Горячие</string>
+    <string name="error">error picture</string>
+</resources>
