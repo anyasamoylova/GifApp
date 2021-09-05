@@ -1,13 +1,11 @@
 package com.sam.gifapp.viewmodels
 
-import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 import com.sam.gifapp.model.Gif
 import com.sam.gifapp.network.GifRepository
 import com.sam.gifapp.network.ResponseCallback
 import com.sam.gifapp.ui.GifFragment
-import okhttp3.internal.notify
 
 class GifViewModel : ViewModel() {
 
